@@ -1,0 +1,27 @@
+div.relative {
+    position: relative;
+    left: 150px; 
+    margin-top: 40px;
+}           
+ .boi {
+     padding-top: 10px;
+     padding-left: 150px;
+     color: white;
+     background-color: black;
+     padding-bottom: 10px;
+
+ }
+ .penis{
+     margin-bottom: 30px;
+     margin-left: 150px;
+     margin-top: 70px;
+ }
+ .heyo{
+     margin-bottom: 50px;
+     margin-left: 160px;
+    }
+
+.heyo a {
+    color:white;
+    background-color: black;
+}
